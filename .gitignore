@@ -1,0 +1,4 @@
+/snapshots
+target
+*.iml
+.idea
